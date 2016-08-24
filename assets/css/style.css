@@ -1,0 +1,81 @@
+body {
+	background-image: url("../images/wood.jpg");
+}
+
+/*h1{
+	color: white;
+	display:inline;
+	clear: both;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: solid 1px #ddd;
+}*/
+
+.panel-heading {
+
+text-align: center;
+font-size: 2.5em;
+}
+
+.panel-body {
+
+background-image: url("../images/wood.jpg");
+text-align: center;
+font-size: 1.275em;
+font-weight: bold;	
+
+}
+
+
+#wrapper {
+	width: 100%
+	max-width:960px;
+	margin: 0 auto;
+}
+
+#guessingNumber {
+	background-color: purple;
+	float: left;
+	display: inline-block;
+	padding: 10px;
+	margin-top: 20px;
+	border: solid 1px #ddd
+}
+
+#scoreboard {
+	background-color: #03A9F4;
+	display: inline-block;
+	padding: 15px 20px 10px 15px;
+	margin-top: 20px;
+	margin-left: 20px;
+	border: solid 1px #ddd
+
+}
+
+#totalScore {
+	margin-bottom: 50px;
+}
+
+#villains {
+	margin-top: 15px;
+	margin-bottom:26px;
+
+}
+
+.villainImage {
+	height: 111px;
+	border: solid 1px #272525;
+	margin-left: 10px
+}
+
+.villainImage:firstchild {
+	margin-left: 0px;
+
+}
+	
+#yts {
+	background: #009688;
+	display: inline;
+	padding: 20px;
+	border: solid 1px #ddd
+}
