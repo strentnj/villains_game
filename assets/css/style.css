@@ -1,5 +1,7 @@
 body {
-	background-image: url("../images/wood.jpg");
+/*background-image: url("../images/wood.jpg");*/
+background-color: orange;
+
 }
 
 /*h1{
@@ -19,7 +21,8 @@ font-size: 2.5em;
 
 .panel-body {
 
-background-image: url("../images/wood.jpg");
+/*background-image: url("../images/wood.jpg");*/
+background-color: orange;
 text-align: center;
 font-size: 1.275em;
 font-weight: bold;	
@@ -43,7 +46,7 @@ font-weight: bold;
 }
 
 #scoreboard {
-	background-color: #03A9F4;
+	background-color: red;
 	display: inline-block;
 	padding: 15px 20px 10px 15px;
 	margin-top: 20px;
@@ -68,14 +71,6 @@ font-weight: bold;
 	margin-left: 10px
 }
 
-.villainImage:firstchild {
+	.villainImage:firstchild {
 	margin-left: 0px;
-
-}
-	
-#yts {
-	background: #009688;
-	display: inline;
-	padding: 20px;
-	border: solid 1px #ddd
 }
